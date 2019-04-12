@@ -7,5 +7,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @RequestMapping("dept")
 public class DepartmentController {
 
+    public void insert() {
+        System.out.println("111111");
+    }
 
 }
