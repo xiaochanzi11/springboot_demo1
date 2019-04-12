@@ -8,7 +8,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class DepartmentController {
 
     public void insert() {
-        System.out.println("111111");
+        System.out.println("111111=======================");
+          
     }
 
 }
